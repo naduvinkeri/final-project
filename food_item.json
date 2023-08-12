@@ -1,0 +1,23 @@
+{
+    "1": {
+        "Food Name": "maggi",
+        "Food Qty": 2,
+        "Stock": 5,
+        "Price": 15.0,
+        "Discount": 14.25
+    },
+    "2": {
+        "Food Name": "maggi",
+        "Food Qty": 2,
+        "Stock": 10,
+        "Price": 12.0,
+        "Discount": 11.4
+    },
+    "3": {
+        "Food Name": "burger",
+        "Food Qty": 2,
+        "Stock": 10,
+        "Price": 12.0,
+        "Discount": 11.28
+    }
+}
